@@ -5,7 +5,7 @@ using [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.micros
 
  ## Installation
  
- 1. Download zip file from releases
+ 1. Download zip file from [releases page](https://github.com/steazzy/russianextended/releases/tag/1.0)
  2. Run setup.exe from zip
  3. Restart your PC
 
